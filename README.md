@@ -46,6 +46,7 @@ bucket_name       = "your-bucket-name"
 github_token      = "your-generated-token"
 github_repo_owner = "your-repo-owner"
 github_repo_name  = "your-repo-name"
+github_location = "your-github-url"
 ```
 
 ### 4. Initialize and Apply Terraform Configuration
