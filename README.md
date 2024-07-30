@@ -89,9 +89,9 @@ Roles and policies for CodePipeline and CodeBuild to access necessary AWS servic
 
 ### CodePipeline
 
-Source Stage: Retrieves source code from the GitHub repository.
-Build Stage: Uses CodeBuild to build the project based on the buildspec.yml file.
-Deploy Stage: Deploys the built artifacts to the S3 website bucket.
+- **Source Stage**: Retrieves source code from the GitHub repository.
+- **Build Stage**: Uses CodeBuild to build the project based on the buildspec.yml file.
+- **Deploy Stage**: Deploys the built artifacts to the S3 website bucket.
 
 ### CodeBuild
 
