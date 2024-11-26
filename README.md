@@ -71,7 +71,6 @@ Follow the prompts and type `yes` to confirm the creation of the resources.
 - `terraform.tfvars`: A file to store variable values (not included in the repository).
 - `buildspec.yml`: The build specification file for CodeBuild (should be in your GitHub repository).
 
-## Components
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
@@ -124,6 +123,8 @@ No modules.
 | <a name="output_s3_bucket"></a> [s3\_bucket](#output\_s3\_bucket) | Name of the of the s3 bucket |
 <!-- END_TF_DOCS -->
 
+
+## Components
 ### S3 Bucket
 
 - `Website Bucket`: Stores the static website files.
