@@ -120,8 +120,8 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_cloudfront_distribution"></a> [cloudfront\_distribution](#output\_cloudfront\_distribution) | n/a |
-| <a name="output_s3_bucket"></a> [s3\_bucket](#output\_s3\_bucket) | n/a |
+| <a name="output_cloudfront_distribution"></a> [cloudfront\_distribution](#output\_cloudfront\_distribution) | dns name of the cloudfront distribution |
+| <a name="output_s3_bucket"></a> [s3\_bucket](#output\_s3\_bucket) | Name of the of the s3 bucket |
 <!-- END_TF_DOCS -->
 
 ### S3 Bucket
