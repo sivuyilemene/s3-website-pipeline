@@ -121,7 +121,7 @@ No modules.
 | Name | Description |
 |------|-------------|
 | <a name="output_cloudfront_distribution"></a> [cloudfront\_distribution](#output\_cloudfront\_distribution) | n/a |
-| <a name="output_s3_bucket"></a> [s3\_bucket](#output\_s3\_bucket) | ######################## Outputs ######################## |
+| <a name="output_s3_bucket"></a> [s3\_bucket](#output\_s3\_bucket) | n/a |
 <!-- END_TF_DOCS -->
 
 ### S3 Bucket
