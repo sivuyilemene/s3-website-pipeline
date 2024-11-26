@@ -345,8 +345,10 @@ resource "aws_codepipeline" "main" {
 
 output "s3_bucket" {
   value = aws_s3_bucket.website_bucket.bucket
+  description = "Name of the of the s3 bucket"
 }
 
 output "cloudfront_distribution" {
   value = aws_cloudfront_distribution.website_distribution.domain_name
+  description = "dns name of the cloudfront distribution"
 }
