@@ -73,6 +73,10 @@ Follow the prompts and type `yes` to confirm the creation of the resources.
 
 ## Components
 
+<!-- BEGIN_TF_DOCS -->
+{{ .Content }}
+<!-- END_TF_DOCS -->
+
 ### S3 Bucket
 
 - `Website Bucket`: Stores the static website files.
